@@ -118,5 +118,3 @@ async function handleEvent(event, client) {
     await client.replyMessage(replyToken, { type: 'text', text: 'ข้อมูลลาทั้งหมด (ล่าสุด):\n' + lines.join('\n') });
     return;
   }
-
- 
