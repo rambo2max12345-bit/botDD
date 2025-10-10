@@ -1,6 +1,6 @@
 # ก๊อปไฟล์นี้เป็น .env แล้วเติมค่า
-LINE_CHANNEL_ACCESS_TOKEN=YOUR_CHANNEL_ACCESS_TOKEN
-LINE_CHANNEL_SECRET=YOUR_CHANNEL_SECRET
+LINE_CHANNEL_ACCESS_TOKEN=pyshkbRdJ/GuQQzIpR+yqPmVJlVy33tGXW6bjJ47DE3Ucu+OTgGKd1RnQMTFJog/9+Kn4hEurruiCesAI9owYd8aqu0pE3SgJ9RSTbB+T4SupO+kethi8AoLU084qxc56exbRo+/uoy8Ll/o5nthegdB04t89/1O/w1cDnyilFU=
+LINE_CHANNEL_SECRET=c5ccaa8b8a606f6c6cf85d50ee7bee74
 PORT=3000
 DB_PATH=./data.db
 # รายการ admin userId คั่นด้วยคอมม่า (ถ้าไม่รู้ ให้เว้นว่างแล้วเพิ่มทีหลัง)
