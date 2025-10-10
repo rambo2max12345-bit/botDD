@@ -6,8 +6,8 @@ const { handleEvent } = require('./handlers');
 const { initDb } = require('./db');
 
 const config = {
-  channelAccessToken: process.env.LINE_CHANNEL_ACCESS_TOKEN,
-  channelSecret: process.env.LINE_CHANNEL_SECRET
+  channelAccessToken: process.env.pyshkbRdJ/GuQQzIpR+yqPmVJlVy33tGXW6bjJ47DE3Ucu+OTgGKd1RnQMTFJog/9+Kn4hEurruiCesAI9owYd8aqu0pE3SgJ9RSTbB+T4SupO+kethi8AoLU084qxc56exbRo+/uoy8Ll/o5nthegdB04t89/1O/w1cDnyilFU=,
+  channelSecret: process.env.c5ccaa8b8a606f6c6cf85d50ee7bee74
 };
 
 const app = express();
