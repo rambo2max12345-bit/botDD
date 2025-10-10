@@ -1,0 +1,7 @@
+# ก๊อปไฟล์นี้เป็น .env แล้วเติมค่า
+LINE_CHANNEL_ACCESS_TOKEN=YOUR_CHANNEL_ACCESS_TOKEN
+LINE_CHANNEL_SECRET=YOUR_CHANNEL_SECRET
+PORT=3000
+DB_PATH=./data.db
+# รายการ admin userId คั่นด้วยคอมม่า (ถ้าไม่รู้ ให้เว้นว่างแล้วเพิ่มทีหลัง)
+ADMINS=
